@@ -18,10 +18,31 @@ Front-end I wish to make the application appear similar to the dating app Tinder
 - Swipe through available houses that meet their requirements, determining at the moment if they like it or not. This saves the house for a later viewing date on their profile
 - View saved houses on their profile to further narrow down which house they truly want through their favorites
 - Ideally, there is also a contact page for realtors or those who the user can contact about actually purchasing the house
+
 ### **Design (Wireframes)**: The wireframes can be seen on this outline's document with the link below
 - https://docs.google.com/document/d/1ynaj7NGYLQ2fkD9qMNxT0wzzQ7c1wKHe9BLI22wkhEk/edit?usp=sharing
 
-
+### **Updates**:
+# Version 0.1
+Created basic MainActivity with three bottom buttons that allow for transitioning in the app. This strays a little from the wireframes by putting them on the bottom instead of the top for easier accessibility. These buttons each lead to the Swipes, Profile, and Settings pages
+# Version 0.2
+Adding the viewport for houses to fit on and allow for swiping left or right/tapping to go through the house’s design and architecture
+# Version 0.3
+Add functionality to buttons at the bottom leading to your Swipes, Settings, and Profile
+# Version 0.4
+Create a Swipes page that saves based on items swiped
+# Version 0.5
+Create a Settings page that limits houses based on your filters
+# Version 0.6
+Create a Profile page with relevant information about the user
+# Version 0.7
+Add a database for accessing available houses
+# Version 0.8
+Add a login page for users to login with that saves their info
+# Version 0.9
+Finalize app design and ensure everything works correctly and meshes properly
+# Version 1
+App release
 
 
 
